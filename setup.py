@@ -9,7 +9,7 @@ setup(
     version='0.1.0',
     install_requires=[          # 添加了依赖的 package
         'pyjokes'
-    ]
+    ],
     long_description=long_description,
     long_description_content_type='text/markdown'
 )
